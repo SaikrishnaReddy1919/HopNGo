@@ -92,6 +92,6 @@ Please include:
 - Use meaningful component names and readable code/designs.
 - Be creative! Small touches like color, spacing, and layout make a big difference.
 
----
+---the sooner you share, the better your chances!
 
 **Good luck and happy building! 🚀**
